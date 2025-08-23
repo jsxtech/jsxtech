@@ -75,17 +75,35 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jsxtech&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jsxtech&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
+## 🏅 Tech Mastery Badges
 
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jsxtech&theme=onedark&row=1&column=6"/>
+  <!-- AI & Chatbot -->
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Chatbot%20Agent-00C7B7?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ollama-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <!-- Stacks -->
+  <img src="https://img.shields.io/badge/-MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MEAN-F7DF1E?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LAMP-0078D6?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
+
+  <!-- Python & Frameworks -->
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
 </p>
 
 ---
