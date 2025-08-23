@@ -38,6 +38,43 @@
 
 ---
 
+## 🛠 Tech Stack  
+
+### 🤖 AI & Automation  
+- OpenAI · Chatbot Agents · n8n · Ollama  
+
+### 🌐 Full-Stack Frameworks  
+- MEAN · MERN · LAMP · PHP · CGI · Perl  
+- Laravel · CodeIgniter · Strapi · Magento  
+- Python · Django · Flask · Gunicorn  
+- ASP.NET · C# · Ruby on Rails (RoR)  
+
+### 🗄 Databases & Search  
+- MongoDB · MySQL · PL/SQL · CouchDB  
+- Elasticsearch · Solr · ELK · Redis  
+- Cassandra · Big Data · Hadoop · Kafka · Spark · Scala  
+
+### ⚙️ DevOps & Cloud  
+- Microservices · Serverless · AWS Lambda  
+- Docker · Kubernetes · Jenkins · Ansible  
+- CloudFormation · Terraform · Beanstalk  
+
+### 📊 Tools & Methodologies  
+- Agile · Scrum · Jira · Datadog · Splunk  
+
+### 🔬 Data & Integration  
+- Informatica · Snowflake · Talend  
+
+### 🔒 Cybersecurity & IoT  
+- Cyber Security · Ethical Hacking · IoT  
+
+### 🌍 Emerging Tech  
+- Blockchain · Artificial Intelligence  
+- Machine Learning · ONNX · YOLO  
+- TensorFlow · PyTorch · OpenCV  
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jsxtech&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
