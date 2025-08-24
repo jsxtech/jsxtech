@@ -5,8 +5,10 @@
 ---
 
 ## 👨‍💻 About Me
+<!--
 - 🔭 I’m currently working on **[Your Project/Startup/Idea]**
 - 🌱 I’m learning **[Tech/Framework]**
+-->
 - 💬 Ask me about **Python, Flask, React, PostgreSQL, Docker, AWS**
 - 📫 How to reach me: **jsxtech@gmail.com**
 - ⚡ Fun fact: *I love solving real-world problems with code!*
